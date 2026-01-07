@@ -1,7 +1,7 @@
 // Function to dynamically update navbar brand
 function updateNavbarBrand() {
     const navbarBrand = document.querySelector(".navbar-brand");
-    navbarBrand.innerHTML = '<span style="color: red;">Fast</span>DramaHD'; // Update brand text with HTML
+    navbarBrand.innerHTML = '<span style="color: red;">Let</span>Drama'; // Update brand text with HTML
     navbarBrand.href = "https://www.letdrama.online/"; // Update brand link
 }
 
@@ -105,4 +105,5 @@ function hideDiv() {
     const watchEpDiv = document.querySelector('.watch-ep');
     watchEpDiv.style.display = 'none'; // Hide the div
 }
+
 
