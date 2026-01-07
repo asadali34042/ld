@@ -2,7 +2,7 @@
   // Load the GA script
   var s = document.createElement('script');
   s.async = true;
-  s.src = 'https://www.googletagmanager.com/gtag/js?id=G-RF6K4DG5DN';
+  s.src = 'https://www.googletagmanager.com/gtag/js?id=G-D0KZ32N361';
   document.head.appendChild(s);
 
   // Setup gtag after loading
@@ -11,5 +11,5 @@
   window.gtag = gtag;
 
   gtag('js', new Date());
-  gtag('config', 'G-RF6K4DG5DN');
+  gtag('config', 'G-D0KZ32N361');
 })();
